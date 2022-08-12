@@ -1,5 +1,5 @@
 // Quiz_1_y_2.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
+// Elaborado por Helberth Fabricio Cubillo Jarquin - 2021110838 / Segundo semestre 2022
 
 #include <iostream>
 #include <cstdlib>
